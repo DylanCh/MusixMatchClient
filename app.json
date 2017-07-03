@@ -1,0 +1,8 @@
+{
+    "name": "musixmatch api server",
+    "description" : "web api server",
+    "addons" : [
+        "requests",
+        "flask"
+    ]
+}
